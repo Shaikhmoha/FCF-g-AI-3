@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FCF Video Converter</string>
+    <string name="tagline_offline">100% Offline Media &amp; Local AI Studio</string>
+    <string name="feat_converter">Video Converter</string>
+    <string name="feat_compressor">Video Compressor</string>
+    <string name="feat_voice">AI Voice Changer</string>
+    <string name="feat_translator">AI Language Translator</string>
+    <string name="feat_dubbing">AI Video Dubbing</string>
+    <string name="feat_subtitles">Auto Subtitle Generator</string>
+    <string name="feat_audio">Audio Extractor</string>
+    <string name="feat_editor">Video Editor</string>
+    <string name="feat_merge">Merge Videos</string>
+    <string name="feat_trim">Trim Video</string>
+    <string name="feat_projects">My Projects</string>
+    <string name="feat_settings">Settings</string>
+</resources>

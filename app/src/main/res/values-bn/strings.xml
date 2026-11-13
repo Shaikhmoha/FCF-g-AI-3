@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">এফসিএফ ভিডিও কনভার্টার</string>
+    <string name="tagline_offline">১০০% অফলাইন মিডিয়া ও লোকাল এআই স্টুডিও</string>
+    <string name="feat_converter">ভিডিও কনভার্টার</string>
+    <string name="feat_compressor">ভিডিও কমপ্রেসর</string>
+    <string name="feat_voice">এআই ভয়েস চেঞ্জার</string>
+    <string name="feat_translator">এআই ভাষা অনুবাদক</string>
+    <string name="feat_dubbing">এআই ভিডিও ডাবিং</string>
+    <string name="feat_subtitles">অটো সাবটাইটেল জেনারেটর</string>
+    <string name="feat_audio">অডিও এক্সট্র্যাক্টর</string>
+    <string name="feat_editor">ভিডিও এডিটর</string>
+    <string name="feat_merge">ভিডিও মার্জ</string>
+    <string name="feat_trim">ভিডিও ট্রিম</string>
+    <string name="feat_projects">আমার প্রজেক্ট</string>
+    <string name="feat_settings">সেটিংস</string>
+</resources>
